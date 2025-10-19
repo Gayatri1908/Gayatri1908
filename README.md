@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m Gayatri
-I’m interested in Cloud Comupting
-I’m currently learning Java Fullstack
-I’m looking to collaborate on Java
-How to reach me email- kalapahadagayatri@gmail.com
+- I’m Gayatri
+- I’m interested in Cloud Comupting
+- I’m currently learning Java Fullstack
+- I’m looking to collaborate on Java
+- How to reach me email- kalapahadagayatri@gmail.com
